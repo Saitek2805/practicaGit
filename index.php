@@ -9,5 +9,5 @@ echo "¡Hola, Mundo, este es el edit para la tarea!\n";
 echo "La fecha y hora actual es: " . date("d/m/Y H:i:s") . "\n";
 
 // Mensaje adicional
-echo "Esta es una página simple generada con PHP.";
+
 ?>
